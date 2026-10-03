@@ -3,7 +3,8 @@
 
 @section('contenuto')
 
+    <x-navbar />
 
-    
-    
+    <x-footer />
+
 @endsection
